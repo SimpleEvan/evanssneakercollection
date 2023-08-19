@@ -2,3 +2,9 @@
 
 frontend/build/
 frontend/node_modules
+
+backend/FetcherFunction/obj/
+backend/FetcherFunction/bin/
+backend/FetcherFunction/.vs/
+
+.vscode/
